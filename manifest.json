@@ -1,0 +1,37 @@
+{
+    "manifest": "1",
+    "client_id": "1960888917",
+    "version": "1.0.1",
+    "locale": {
+        "default": "en-us",
+        "supported": ["en-us"]
+    },
+    "elements": [
+        {
+            "path": "files",
+            "name": "Mailjet Subscription",
+            "version": "1.0.1",
+            "settings": {
+                "config": {
+                    "external": {
+                        "url": "http://www.mailjet.com",
+                        "label": "Copy your Mailjet Widget Code"
+                    },
+                    "autopop": false
+                },
+                "properties": [
+                    {
+                        "type": "group",
+                        "name": "settings",
+                        "label": "Settings",
+                        "properties": [
+                            {
+                                "name": "widgetcode",
+                                "default": "Paste your widget iFrame code here",
+                                "type": "text",
+                                "label": "Mailjet Widget"
+                            }]
+                    }]
+            }
+        }]
+}
