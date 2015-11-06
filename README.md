@@ -9,10 +9,10 @@ Initial release  v1.0.1
 -----------------
 
 ** Setup ZIP archive with element files and upload it **
-- Navigate to the Mailjet_Widget directory, select all the contents, and create a zip file.
-- Be sure to create a zip from the contents of the Mailjet_Widget directory and not OF the Mailjet_Widget directory.
+- Navigate to the ROOT directory, select all the contents, and create a zip file.
+- Be sure to create a zip from the contents of the ROOT directory and not OF the ROOT directory.
 - In a web browser, navigate to www.dev.weebly.com and open the Dev Admin portal by clicking Admin Login.
-- Click Mailjet Subscription Widget  to open the app’s manage page.
+- Click Mailjet Subscription Widget to open the app's manage page.
 - Click Upload New Version.
 - Click Upload New Zip and select the zip file and upload.
 - Fill out the App Store Listing fields as follows:
