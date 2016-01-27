@@ -1,7 +1,7 @@
 {
     "manifest": "1",
-    "client_id": "1960888917",
-    "version": "1.0.1",
+    "client_id": "1632851369",
+    "version": "1.0.0",
     "locale": {
         "default": "en-us",
         "supported": ["en-us"]
@@ -10,11 +10,11 @@
         {
             "path": "files",
             "name": "Mailjet Subscription",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "settings": {
                 "config": {
                     "external": {
-                        "url": "http://www.mailjet.com",
+                        "url": "http://app.mailjet.com/signin?from=aHR0cHM6Ly9hcHAucHJlcHJvZC5tYWlsamV0LmNvbS93aWRnZXQ=",
                         "label": "Copy your Mailjet Widget Code"
                     },
                     "autopop": false

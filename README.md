@@ -3,7 +3,7 @@ Mailjet Subscription Widget
 
 ## Version Releases
 -----------------    
-Initial release  v1.0.1
+Initial release  v1.0.0
 
 ## Installation of Mailjet Subscription Widget
 -----------------
@@ -26,6 +26,6 @@ Initial release  v1.0.1
 
 ### Changelog
 
-= v1.0.1 =
+= v1.0.0 =
 
 * Initial release of subscription widget - integrating iFrame code, generated via Mailjet Web Site Widget generator
