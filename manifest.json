@@ -15,7 +15,7 @@
                 "config": {
                     "external": {
                         "url": "http://app.preprod.mailjet.com/widget?force_iframe=1&p=weebly",
-                        "label": "Copy your Mailjet Widget Code"
+                        "label": "Copy and Paste your Mailjet Widget code"
                     },
                     "autopop": false
                 },
@@ -27,7 +27,7 @@
                         "properties": [
                             {
                                 "name": "widgetcode",
-                                "default": "Paste your widget iFrame code here",
+                                "default": "",
                                 "type": "text",
                                 "label": "Mailjet Widget"
                             }]
