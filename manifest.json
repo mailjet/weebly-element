@@ -14,7 +14,7 @@
             "settings": {
                 "config": {
                     "external": {
-                        "url": "http://app.mailjet.com/signin?from=aHR0cHM6Ly9hcHAucHJlcHJvZC5tYWlsamV0LmNvbS93aWRnZXQ=",
+                        "url": "http://app.preprod.mailjet.com/widget?force_iframe=1&p=weebly",
                         "label": "Copy your Mailjet Widget Code"
                     },
                     "autopop": false
