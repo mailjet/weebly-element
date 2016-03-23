@@ -9,13 +9,13 @@
     "elements": [
         {
             "path": "files",
-            "name": "Mailjet Subscription",
+            "name": "Subscription Widget",
             "version": "1.0.0",
             "settings": {
                 "config": {
                     "external": {
-                        "url": "http://app.preprod.mailjet.com/widget?force_iframe=1&p=weebly",
-                        "label": "Copy and Paste your Mailjet Widget code"
+                        "url": "http://app.mailjet.com/widget?force_iframe=1&p=weebly",
+                        "label": "Copy and Paste your Mailjet Widget Code"
                     },
                     "autopop": false
                 },
